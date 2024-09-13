@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/ExampleContent/IKRig/Mesh/Spelunkle/SK_Spelunkle.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/ExampleContent/IKRig/Mesh/Spelunkle/Spelunkle_Secondary_Physics.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/ExampleContent/IKRig/Mesh/Spelunkle/SK_Spelunkle_Skeleton.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/ExampleContent/IKRig/Mesh/Spelunkle/phong1.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/ExampleContent/IKRig/Mesh/Spelunkle/lambert2.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_HoleRed.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/ExampleContent/IKRig/Mesh/Spelunkle/MI_EnemyColor.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/M_TunnelBase.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/M_HoleBase.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Spelunkle/lambert2.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Spelunkle/phong1.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Spelunkle/SK_Spelunkle_Skeleton.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Spelunkle/Spelunkle_Secondary_Physics.uasset",
+				"C:/Users/Maximillian/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Spelunkle/SK_Spelunkle.uasset"
+			]
+		}
+	]
+}
